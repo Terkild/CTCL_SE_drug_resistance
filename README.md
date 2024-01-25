@@ -13,4 +13,4 @@ used in reanalysis of previously published cohort (Herrera & Cheng et al) is dep
 * [Supplementary Figure 3 - Skin vs Blood](Supp_Fig3_scRNAseq_Skin_vs_Blood.ipynb)
 * [Supplementary Figure 4 - Romidepsin resistance geneset analysis](Suppl_Fig4_Romi_resistance_genesets.ipynb)
 
-We have also included a notebook showing how the multisce object used in the above notebooks can be converted and save as a normal SingleCellExperiment object [here](multisce_to_sce_conversion.ipynb)
+We have also included a notebook showing how the multisce object used in the above notebooks can be converted and saved as a normal SingleCellExperiment object [here](multisce_to_sce_conversion.ipynb)
